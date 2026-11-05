@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Distributed by https://zonalogo.com -->
+<svg width="100%" height="100%" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M50,25C50,43.86 41.506,50 25,50C8.494,50 0,43.828 0,25C0,6.172 8.494,0 25,0C41.506,0 50,6.172 50,25Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+    <path d="M25,44.653C12.026,44.653 5.347,39.825 5.347,25C5.347,10.176 12.025,5.347 25,5.347C37.975,5.347 44.653,10.175 44.653,25C44.653,39.826 37.975,44.653 25,44.653ZM35.704,14.353C28.85,7.499 18.501,6.735 12.59,12.646C6.678,18.558 7.442,28.907 14.296,35.76C21.151,42.615 31.499,43.378 37.41,37.467C43.322,31.555 42.558,21.207 35.704,14.353L35.704,14.353ZM25,31.778C27.763,31.778 30.112,29.883 30.964,27.245C31.039,27.01 31.257,26.85 31.503,26.85L34.451,26.85C34.704,26.85 34.899,27.07 34.87,27.322C34.22,33.101 30.883,35.057 25,35.057C18.406,35.057 15.012,32.6 15.012,25.056C15.012,17.513 18.405,15.057 25,15.057C30.884,15.057 34.22,17.012 34.87,22.792C34.899,23.043 34.704,23.264 34.451,23.264L31.503,23.264C31.256,23.264 31.039,23.104 30.964,22.868C30.112,20.231 27.764,18.335 25,18.335C21.518,18.335 18.695,21.344 18.695,25.056C18.695,28.769 21.518,31.778 25,31.778L25,31.778Z" style="fill:white;fill-rule:nonzero;"/>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,50,-50,0,25,0)"><stop offset="0" style="stop-color:rgb(106,176,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(71,147,235);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
